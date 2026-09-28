@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
-<h3 align="center">BCA Graduate | Full Stack Learning | Python & Backend Development | Data Science & AI Enthusisast | ServiceNow Learner | Exploring Modern Technologies</h3>
+<h1 align="center">Hi , I'm Sourav Kumar</h1>
+<h3 align="center">BCA Graduate | Full Stack Learning | Python & Backend Development | Data Science & AI Enthusiast | ServiceNow Learner | Exploring Modern Technologies</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Python+%7C+FastAPI+%7C+Flask;Backend+%26+REST+API+Development;JavaScript+%7C+React+Basics;ServiceNow+Learner+%7C+CSA+Preparation" alt="Typing SVG" />
